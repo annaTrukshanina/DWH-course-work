@@ -115,6 +115,3 @@ A **Power BI dashboard** is created using data from the `datawarehouse` schema.
 - **ETL**: SQL scripts
 - **Data Warehouse**: Star schema with Slowly Changing Dimensions (SCD2)
 - **Visualization**: Power BI
-
-## Author
-*(Your Name or Team Name)*
